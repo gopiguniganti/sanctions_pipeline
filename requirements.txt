@@ -1,0 +1,10 @@
+# For local logic testing (see local_test/run_local.py)
+pyspark==3.5.1
+rapidfuzz>=3.0.0
+
+# For Databricks notebooks — Delta Lake is pre-installed on any Databricks
+# Runtime cluster (including Community Edition), so delta-spark is NOT
+# needed as a separate install there. It's listed here only for reference /
+# in case you want to attempt a full local Delta run on a machine with
+# unrestricted internet access (Maven Central reachable):
+# delta-spark==3.2.0
