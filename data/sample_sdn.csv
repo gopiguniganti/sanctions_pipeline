@@ -1,0 +1,11 @@
+ent_num,SDN_Name,SDN_Type,Program,Title,Call_Sign,Vess_type,Tonnage,GRT,Vess_flag,Vess_owner,Remarks
+10001,ANDRIANOV ALEKSANDR VLADIMIROVICH,individual,RUSSIA-EO14024,,,,,,,,DOB 14 Mar 1971; POB Moscow Russia; nationality Russia
+10002,GLOBEX TRADING LLC,entity,IRAN,,,,,,,,Registered address Isfahan Iran; a.k.a. GLOBEX TRD LLC
+10003,PETROVA ELENA IGOREVNA,individual,RUSSIA-EO14024,,,,,,,,DOB 02 Jul 1985; a.k.a. ELENA PETROVA; nationality Russia
+10004,NORTHSTAR SHIPPING CO,entity,DPRK2,,,,,,,,Vessel operator; a.k.a. NORTHSTAR SHIP CO LTD
+10005,KIM YONG CHUL,individual,DPRK3,,,,,,,,DOB 1968; nationality Korea North
+10006,AL-RASHID TRADING GROUP,entity,SDGT,,,,,,,,a.k.a. RASHID TRADING; a.k.a. AL RASHID GRP
+10007,VOLKOV DMITRY SERGEYEVICH,individual,RUSSIA-EO14024,,,,,,,,DOB 19 Sep 1979; nationality Russia
+10008,CRESCENT PETROCHEMICAL SA,entity,IRAN,,,,,,,,a.k.a. CRESCENT PETROCHEM; Registered Tehran Iran
+10009,MORALES HERNANDEZ JUAN CARLOS,individual,SDNTK,,,,,,,,DOB 05 Jan 1974; nationality Colombia
+10010,BALTIC MARITIME HOLDINGS,entity,RUSSIA-EO14024,,,,,,,,a.k.a. BALTIC MARITIME HLDGS LTD
